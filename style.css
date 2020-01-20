@@ -1,3 +1,10 @@
-window.onload = function() {
-    let in_num = document.getElement
+
+#inner{
+    float: left;
+    width: 35%;
+}
+
+#outer{
+    float: left;
+    width: 65%;
 }
